@@ -1,6 +1,5 @@
 <!-- logo -->
 
-![Alephium Logo](https://raw.githubusercontent.com/alephium/alephium-brand-guide/master/logos/light/Logo-Horizontal-Light.png#gh-dark-mode-only) ![Alephium Logo](https://raw.githubusercontent.com/alephium/alephium-brand-guide/master/logos/dark/Logo-Horizontal-Dark.png#gh-light-mode-only)
 
 ---
 
